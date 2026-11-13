@@ -1,0 +1,7 @@
+state,model,weighted_mae_pp
+Casual,mixture,2.9555586828422116
+Casual,hmm,1.6396912022733852
+Engaged,mixture,3.655301504623177
+Engaged,hmm,1.1604071353220538
+Inactive,mixture,0.6919687893947059
+Inactive,hmm,0.04777734540090054
